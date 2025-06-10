@@ -1,6 +1,6 @@
 # Olá! Eu sou o Erick
 
-🎓 Estudante de Ciência de Dados 4/6 
+🎓 Estudante de Ciência de Dados 4/6   
 🧪 Apaixonado por IA, Ciência de Dados e resolver problemas reais  
 📊 Explorando dados públicos e criando projetos com impacto social  
 

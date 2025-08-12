@@ -1,6 +1,6 @@
 # Olá! Eu sou o Erick
 
-🎓 Estudante de Ciência de Dados 4/6   
+🎓 Estudante de Ciência de Dados 5/6   
 🧪 Apaixonado por IA, Ciência de Dados e resolver problemas reais  
 📊 Explorando dados públicos e criando projetos com impacto social  
 
@@ -9,6 +9,9 @@
 - Pandas, Numpy, Matplotlib, Seaborn
 - Scikit-learn
 - Power BI (iniciante)
+- Django framework
+- SQL
+- NoSQL
 
 ### 📌 Projetos em destaque:
 - Predição da resistência do concreto usando IA
